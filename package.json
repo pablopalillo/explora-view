@@ -1,5 +1,5 @@
 {
-  "name": "Explora view",
+  "name": "electron-quick-start",
   "version": "1.0.0",
   "description": "A minimal Electron application",
   "main": "main.js",
@@ -8,12 +8,14 @@
   },
   "repository": "https://github.com/electron/electron-quick-start",
   "keywords": [
-    "Explora",
-    "Multimedia",
-    "View"
+    "Electron",
+    "quick",
+    "start",
+    "tutorial",
+    "demo"
   ],
-  "author": "PabloPalillo",
-  "license": "GNU 3",
+  "author": "GitHub",
+  "license": "CC0-1.0",
   "devDependencies": {
     "electron": "~1.7.8"
   }
